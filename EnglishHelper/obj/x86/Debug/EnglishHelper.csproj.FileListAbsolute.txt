@@ -1,0 +1,58 @@
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\obj\x86\Debug\EnglishHelper.csprojResolveAssemblyReference.cache
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\obj\x86\Debug\EnglishHelper.MainPage.resources
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\obj\x86\Debug\EnglishHelper.csproj.GenerateResource.Cache
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\Properties\Settings.settings
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\Properties\Settings.Designer.cs
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\EnglishHelper.exe.config
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\EnglishHelper.exe
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\EnglishHelper.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\DBHelper.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\DBHelperGUI.exe
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\EnglishSTT.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\TextToSpeechHelper.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\Istrib.Sound.Mp3.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\Istrib.Sound.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\CUETools.Codecs.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\CUETools.Codecs.FLAKE.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\Interop.SpeechLib.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\yeti.mp3.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\yeti.mmedia.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\DBHelperGUI.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\DBHelper.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\EnglishSTT.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\TextToSpeechHelper.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\obj\x86\Debug\EnglishHelper.exe
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\obj\x86\Debug\EnglishHelper.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\obj\x86\Debug\EnglishHelper.Properties.Resources.resources
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\EnglishHelper.exe.config
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\obj\x86\Debug\EnglishHelper.exe
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\obj\x86\Debug\EnglishHelper.pdb
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\Properties\Settings.settings
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\EnglishHelper.exe
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\EnglishHelper.pdb
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\DBHelper.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\DBHelperGUI.exe
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\EnglishSTT.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\TextToSpeechHelper.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\Istrib.Sound.Mp3.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\Istrib.Sound.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\CUETools.Codecs.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\CUETools.Codecs.FLAKE.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\Interop.SpeechLib.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\yeti.mp3.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\yeti.mmedia.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\DBHelperGUI.pdb
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\DBHelper.pdb
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\EnglishSTT.pdb
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\TextToSpeechHelper.pdb
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\obj\x86\Debug\EnglishHelper.csprojResolveAssemblyReference.cache
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\obj\x86\Debug\EnglishHelper.AboutForm.resources
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\obj\x86\Debug\EnglishHelper.MainPage.resources
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\obj\x86\Debug\EnglishHelper.Properties.Resources.resources
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\obj\x86\Debug\EnglishHelper.csproj.GenerateResource.Cache
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\obj\x86\Debug\EnglishHelper.AboutForm.resources
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\WordsMatching.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishHelper\bin\Debug\WordsMatching.pdb
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\WordsMatching.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishHelper\bin\Debug\WordsMatching.pdb

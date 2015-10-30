@@ -1,0 +1,22 @@
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishSTT\bin\Debug\EnglishSTT.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishSTT\bin\Debug\EnglishSTT.pdb
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishSTT\bin\Debug\CUETools.Codecs.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishSTT\bin\Debug\CUETools.Codecs.FLAKE.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishSTT\bin\Debug\Istrib.Sound.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishSTT\bin\Debug\Istrib.Sound.Mp3.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishSTT\bin\Debug\yeti.mp3.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishSTT\bin\Debug\yeti.mmedia.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishSTT\obj\Debug\EnglishSTT.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishSTT\obj\Debug\EnglishSTT.pdb
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\EnglishSTT\obj\Debug\EnglishSTT.csprojResolveAssemblyReference.cache
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishSTT\bin\Debug\EnglishSTT.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishSTT\bin\Debug\EnglishSTT.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishSTT\bin\Debug\CUETools.Codecs.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishSTT\bin\Debug\CUETools.Codecs.FLAKE.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishSTT\bin\Debug\Istrib.Sound.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishSTT\bin\Debug\Istrib.Sound.Mp3.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishSTT\bin\Debug\yeti.mp3.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishSTT\bin\Debug\yeti.mmedia.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishSTT\obj\Debug\EnglishSTT.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishSTT\obj\Debug\EnglishSTT.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\EnglishSTT\obj\Debug\EnglishSTT.csprojResolveAssemblyReference.cache

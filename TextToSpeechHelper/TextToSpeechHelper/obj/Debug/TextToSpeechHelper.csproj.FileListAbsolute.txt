@@ -1,0 +1,21 @@
+c:\users\nho\documents\visual studio 2012\Projects\TextToSpeechHelper\TextToSpeechHelper\bin\Debug\TextToSpeechHelper.dll
+c:\users\nho\documents\visual studio 2012\Projects\TextToSpeechHelper\TextToSpeechHelper\bin\Debug\TextToSpeechHelper.pdb
+c:\users\nho\documents\visual studio 2012\Projects\TextToSpeechHelper\TextToSpeechHelper\obj\Debug\TextToSpeechHelper.csprojResolveAssemblyReference.cache
+c:\users\nho\documents\visual studio 2012\Projects\TextToSpeechHelper\TextToSpeechHelper\obj\Debug\TextToSpeechHelper.dll
+c:\users\nho\documents\visual studio 2012\Projects\TextToSpeechHelper\TextToSpeechHelper\obj\Debug\TextToSpeechHelper.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Document\Project\EnglishPracticeHelper\TextToSpeechHelper\TextToSpeechHelper\bin\Debug\TextToSpeechHelper.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Document\Project\EnglishPracticeHelper\TextToSpeechHelper\TextToSpeechHelper\bin\Debug\TextToSpeechHelper.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Document\Project\EnglishPracticeHelper\TextToSpeechHelper\TextToSpeechHelper\obj\Debug\TextToSpeechHelper.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Document\Project\EnglishPracticeHelper\TextToSpeechHelper\TextToSpeechHelper\obj\Debug\TextToSpeechHelper.pdb
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\TextToSpeechHelper\TextToSpeechHelper\bin\Debug\TextToSpeechHelper.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\TextToSpeechHelper\TextToSpeechHelper\bin\Debug\TextToSpeechHelper.pdb
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\TextToSpeechHelper\TextToSpeechHelper\bin\Debug\Interop.SpeechLib.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\TextToSpeechHelper\TextToSpeechHelper\obj\Debug\TextToSpeechHelper.csprojResolveAssemblyReference.cache
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\TextToSpeechHelper\TextToSpeechHelper\obj\Debug\TextToSpeechHelper.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\TextToSpeechHelper\TextToSpeechHelper\obj\Debug\TextToSpeechHelper.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\TextToSpeechHelper\TextToSpeechHelper\bin\Debug\TextToSpeechHelper.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\TextToSpeechHelper\TextToSpeechHelper\bin\Debug\TextToSpeechHelper.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\TextToSpeechHelper\TextToSpeechHelper\bin\Debug\Interop.SpeechLib.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\TextToSpeechHelper\TextToSpeechHelper\obj\Debug\TextToSpeechHelper.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\TextToSpeechHelper\TextToSpeechHelper\obj\Debug\TextToSpeechHelper.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\TextToSpeechHelper\TextToSpeechHelper\obj\Debug\TextToSpeechHelper.csprojResolveAssemblyReference.cache

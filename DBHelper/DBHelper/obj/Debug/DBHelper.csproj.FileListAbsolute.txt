@@ -1,0 +1,28 @@
+c:\users\nho\documents\visual studio 2012\Projects\DBHelper\DBHelper\bin\Debug\DBHelper.dll
+c:\users\nho\documents\visual studio 2012\Projects\DBHelper\DBHelper\bin\Debug\DBHelper.pdb
+c:\users\nho\documents\visual studio 2012\Projects\DBHelper\DBHelper\obj\Debug\DBHelper.dll
+c:\users\nho\documents\visual studio 2012\Projects\DBHelper\DBHelper\obj\Debug\DBHelper.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Document\Project\EnglishPracticeHelper\DBHelper\DBHelper\bin\Debug\DBHelper.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Document\Project\EnglishPracticeHelper\DBHelper\DBHelper\bin\Debug\DBHelper.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Document\Project\EnglishPracticeHelper\DBHelper\DBHelper\obj\Debug\DBHelper.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Document\Project\EnglishPracticeHelper\DBHelper\DBHelper\obj\Debug\DBHelper.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Document\Project\EnglishPracticeHelper\DBHelper\DBHelper\bin\Debug\DBHelper.dll.config
+H:\NewDropbox\Dropbox\DungNT (1)\Document\Project\EnglishPracticeHelper\DBHelper\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+D:\Dropbox\DungNT\Document\Project\EnglishPracticeHelper\DBHelper\DBHelper\bin\Debug\DBHelper.dll.config
+D:\Dropbox\DungNT\Document\Project\EnglishPracticeHelper\DBHelper\DBHelper\bin\Debug\DBHelper.dll
+D:\Dropbox\DungNT\Document\Project\EnglishPracticeHelper\DBHelper\DBHelper\bin\Debug\DBHelper.pdb
+D:\Dropbox\DungNT\Document\Project\EnglishPracticeHelper\DBHelper\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+D:\Dropbox\DungNT\Document\Project\EnglishPracticeHelper\DBHelper\DBHelper\obj\Debug\DBHelper.dll
+D:\Dropbox\DungNT\Document\Project\EnglishPracticeHelper\DBHelper\DBHelper\obj\Debug\DBHelper.pdb
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\DBHelper\DBHelper\bin\Debug\DBHelper.dll.config
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\DBHelper\DBHelper\bin\Debug\DBHelper.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\DBHelper\DBHelper\bin\Debug\DBHelper.pdb
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\DBHelper\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\DBHelper\DBHelper\obj\Debug\DBHelper.dll
+C:\Users\LamPT\Documents\Visual Studio 2010\Projects\ELHelper\english-practice-helper\DBHelper\DBHelper\obj\Debug\DBHelper.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\DBHelper\DBHelper\bin\Debug\DBHelper.dll.config
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\DBHelper\DBHelper\bin\Debug\DBHelper.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\DBHelper\DBHelper\bin\Debug\DBHelper.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\DBHelper\DBHelper\obj\Debug\DBHelper.dll
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\DBHelper\DBHelper\obj\Debug\DBHelper.pdb
+H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\DBHelper\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache

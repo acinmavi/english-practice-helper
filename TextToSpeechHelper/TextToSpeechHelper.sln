@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToSpeechHelper", "TextToSpeechHelper\TextToSpeechHelper.csproj", "{2B412D59-EE3B-4D44-8BEA-FBE490BDE66D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToSpeechHelperTest", "TextToSpeechHelperTest\TextToSpeechHelperTest.csproj", "{31D3A648-8B6C-4B14-9EFB-0B580C40F889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B412D59-EE3B-4D44-8BEA-FBE490BDE66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B412D59-EE3B-4D44-8BEA-FBE490BDE66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B412D59-EE3B-4D44-8BEA-FBE490BDE66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B412D59-EE3B-4D44-8BEA-FBE490BDE66D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D3A648-8B6C-4B14-9EFB-0B580C40F889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D3A648-8B6C-4B14-9EFB-0B580C40F889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D3A648-8B6C-4B14-9EFB-0B580C40F889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D3A648-8B6C-4B14-9EFB-0B580C40F889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
